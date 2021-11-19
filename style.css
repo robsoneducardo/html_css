@@ -1,6 +1,9 @@
 body{
     background: #ccc;
     font-family: Verdana;
+    /*width: 900px;*/
+    margin: auto;
+    max-width: 900px;
 }
 
 .foto{
